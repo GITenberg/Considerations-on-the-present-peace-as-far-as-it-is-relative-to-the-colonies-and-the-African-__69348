@@ -1,0 +1,33 @@
+_repo: Considerations-on-the-present-peace-as-far-as-it-is-relative-to-the-colonies-and-the-African-__69348
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Carney, Thomas
+    gutenberg_agent_id: '55221'
+    url: http://www.gutenberg.org/2009/agents/55221
+  - agent_name: Vaughan, Robert
+    gutenberg_agent_id: '55209'
+    url: http://www.gutenberg.org/2009/agents/55209
+description: ''
+gutenberg_issued: '2022-11-14'
+identifiers:
+  gutenberg: '69348'
+  lccn: '43037832'
+language: en
+pgterms:marc905: 20220327172515listed
+pgterms:marc906: '1763'
+pgterms:marc907: GB
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: W Bristow,1763.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave trade -- Africa -- Early works to 1800'
+- !lcsh 'Great Britain -- Colonies -- Commerce -- Early works to 1800'
+- !lcc 'HT'
+- GITenberg
+title: Considerations on the present peace, as far as it is relative to the colonies,
+  and the African trade
+url: http://www.gutenberg.org/ebooks/69348
